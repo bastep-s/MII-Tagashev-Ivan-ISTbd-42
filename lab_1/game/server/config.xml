@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<server>
+    <host>127.0.0.1</host>
+    <port>7777</port>
+    <hello>MyServer</hello>
+</server>
